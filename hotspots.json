@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "name": "Dark Forest",
+        "latitude": 52.5125,
+        "longitude": 6.2560,
+        "monsterId": 1
+    },
+    {
+        "id": 2,
+        "name": "Ancient Ruins",
+        "latitude": 52.5105,
+        "longitude": 6.2580,
+        "monsterId": 2
+    }
+]
