@@ -2,8 +2,8 @@
     {
         "id": 1,
         "name": "Dark Forest",
-        "latitude": 4.331094,
-        "longitude": 52.005788,
+        "latitude": 52.005788,
+        "longitude": 4.331094,
         "monsterId": 1
     },
     {
